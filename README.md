@@ -16,6 +16,8 @@ or for better debugging run the [this .ipynb file](load_forecasting_simple.ipynb
 
 The script prints MAE/RMSE for both model and baseline and writes `forecast_results.png`.
 
+![img output 24hrs](forecast_results_notebook.png)
+
 ## Business Questions
 
 1. **What would you change if you had to forecast for hundreds of thousands of meters at once instead of one?**
